@@ -1,4 +1,4 @@
-# projeto_Calculadora_com_React.js
+# Projeto_Calculadora_com_React.js
 Projeto que tem por objetivo criar uma Calculadora simples que realiza cálculos do tipo de multiplicação, divisão, soma e subtração.O único framework utilizado nesse pequeno projeto foi o React.js. 
 
 ### ***Adendo***
